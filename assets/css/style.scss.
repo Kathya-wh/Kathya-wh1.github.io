@@ -2,5 +2,5 @@
 ---
 
 @import "";
- <body style=' background: linear-gradient(to top, #d5dee7 0%, #ffafbd 0%, #c9ffbf 100%);'>
+ <body style=' background: linear-gradient(-225deg, #7DE2FC 0%, #B9B6E5 100%);'>
  </body>
