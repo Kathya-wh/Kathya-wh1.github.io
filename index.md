@@ -1,6 +1,4 @@
 
-<head>
- <body style=' background: linear-gradient(to top, #d5dee7 0%, #ffafbd 0%, #c9ffbf 100%);'>
    <!--- Basic Page Needs
    ================================================== -->
    <meta charset="utf-8">
@@ -245,7 +243,7 @@
                         <li>If the data is out of bounds or cannot be parsed, then the parse method returns null.</li>
                         <li>Utilizing the Geolocator NuGet package, the program will calculate the two farthest Tacobells.</li>
                     
-</body>
+
 
    <!-- footer
    ================================================== -->
