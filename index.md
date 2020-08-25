@@ -5,13 +5,11 @@
    ================================================== -->
    <meta charset="utf-8">
 	<title>Kathya White</title>
-	<meta name="description" content="">
-	<meta name="author" content="">
+	
 
    <!-- Mobile Specific Metas
    ================================================== -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
+	
 	<!-- CSS
     ================================================== -->
    <link rel="stylesheet" href="css/default.css">
@@ -246,7 +244,7 @@
 
                   <ul>
                      <ul style="list-style-type:disc;">
-                        <li>Uses a CSV file or a SQL database to populate an IEnumerable<Tacobell> called locations.</li>
+                        <li>Uses a CSV file or a SQL database to populate an IEnumerable<Tacobell> called locations.
                         <li>Test-Driven Development using xUnit ensures that invalid or missing data is handled correctly.</li>
                         <li>If the data is out of bounds or cannot be parsed, then the parse method returns null.</li>
                         <li>Utilizing the Geolocator NuGet package, the program will calculate the two farthest Tacobells.</li>
