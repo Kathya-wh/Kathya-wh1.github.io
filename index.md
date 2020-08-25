@@ -1,4 +1,4 @@
- <body style='background:linear-gradient(to top, #feada6 0%, #f5efef 100%);'>
+ <body style='background:https://images.unsplash.com/photo-1579193549168-d040ab6e600e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);'>
 	
  
   
