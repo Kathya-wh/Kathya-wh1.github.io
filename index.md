@@ -35,19 +35,8 @@
    ================================================== -->
    <header id="home">
 
-      <nav id="nav-wrap">
-
-         <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
-	      <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
-
-         <ul id="nav" class="nav">
-            <li class="current"><a class="smoothscroll" href="#home">Home</a></li>
-            <li><a class="smoothscroll" href="#about">About</a></li>
-	         <li><a class="smoothscroll" href="#resume">Resume</a></li>
-            <li><a class="smoothscroll" href="#projects">Projects</a></li>
-         </ul> <!-- end #nav -->
-
-      </nav> <!-- end #nav-wrap -->
+    
+      
 
       <div class="row banner">
          <div class="banner-text">
@@ -86,7 +75,7 @@
             <h2>About Me</h2>
 
             <p>I am a recent graduate of the TrueCoders immersive Software Development bootcamp, with a goal of furthuring my skills and career
-               as a software engineer. I am currently interested in full stack development, backend development, Scrum Master/Agile opportunities.  I am currently enrolled and registrered for my last year to complete my Bachlero degree in Science in Business Administartion from Faulkner University.
+               as a software developer. I am currently interested in full stack development, backend development, Scrum Master/Agile opportunities.  I am currently enrolled and registered for my last year to complete my Bachelor degree of Science in Business Administration from Faulkner University.
             </p>
 
             <div class="row">
@@ -284,14 +273,7 @@
 
       <div class="row">
 
-         <div class="twelve columns">
-
-            <ul class="social-links">
-               <li><a href="https://www.linkedin.com/in/kathya-white-1ba688116/"><i class="fa fa-linkedin"></i></a></li>
-               <li><a href="https://github.com/Kathya-wh"><i class="fa fa-github"></i></a></li>
-               <li><a href="mailto:kathyawhite00@gmail.com"><i class="fa fa-envelope"></i></a></li>
-               
-            </ul>
+         
 
             <ul class="copyright">
                <li>&copy; Copyright 2020 Kathya White</li>  
