@@ -1,4 +1,4 @@
- <body style='background: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%); '>
+ <body style='background:linear-gradient(45deg, #ee9ca7 0%, #ffdde1 100%); '>
 	
  
   
