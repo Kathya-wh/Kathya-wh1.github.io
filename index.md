@@ -1,7 +1,4 @@
-//<!DOCTYPE html>
-//<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
-//<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
-//<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+
 <head>
 
    <!--- Basic Page Needs
@@ -108,11 +105,7 @@
 
                </div>
 
-               <div class="columns download">
-                  <p>
-                     <a href="images/https://www.linkedin.com/in/kathya-white-1ba688116/" class="button"><i class="fa fa-download"></i>Download Resume</a>
-                  </p>
-               </div>
+              
 
             </div> <!-- end row -->
 
