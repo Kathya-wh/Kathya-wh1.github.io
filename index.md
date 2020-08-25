@@ -244,7 +244,7 @@
                         <li>If the data is out of bounds or cannot be parsed, then the parse method returns null.</li>
                         <li>Utilizing the Geolocator NuGet package, the program will calculate the two farthest Tacobells.</li>
                     
-</body>
+
 
    <!-- footer
    ================================================== -->
