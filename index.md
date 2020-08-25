@@ -271,15 +271,11 @@
    ================================================== -->
    <footer>
 
-      <div class="row">
-
-         
-
-            <ul class="copyright">
+    
                <li>&copy; Copyright 2020 Kathya White</li>  
-            </ul>
+          
 
-         </div>
+        
 
          <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
 
