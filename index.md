@@ -275,26 +275,7 @@
       
    </section> <!-- Projects Section End-->
 
-      <!-- Skills
-      ----------------------------------------------- -->
-      <div class="row skill">
-         <hr />
-         <div class="three columns header-col">
-            <h1><span>Skills</span></h1>
-         </div>
-
-         <div class="nine columns main-col">
-
-			
-
-			</div> <!-- main-col end -->
-
-      </div> <!-- End skills -->
-
-   </section> <!-- Resume Section End-->
-
-
-  
+    
 
 
    <!-- footer
@@ -336,6 +317,4 @@
    <script src="js/magnific-popup.js"></script>
    <script src="js/init.js"></script>
 
-</body>
 
-</html>
