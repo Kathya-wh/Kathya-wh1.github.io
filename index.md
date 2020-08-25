@@ -250,21 +250,7 @@
                         <li>Test-Driven Development using xUnit ensures that invalid or missing data is handled correctly.</li>
                         <li>If the data is out of bounds or cannot be parsed, then the parse method returns null.</li>
                         <li>Utilizing the Geolocator NuGet package, the program will calculate the two farthest Tacobells.</li>
-                     </ul>
-                  </ul>
-                  
-
-               </div>
-
-            </div> <!-- item end -->
-
-         </div> <!-- main-col end -->
-
-      </div> <!-- End Work -->
-      
-   </section> <!-- Projects Section End-->
-
-    
+                    
 
 
    <!-- footer
