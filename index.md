@@ -1,4 +1,4 @@
- <body style='background-image:https://mcdn.wallpapersafari.com/medium/32/3/S1jatp.jpg;'>
+ <body style='background: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);'>
 	
  
   
@@ -20,7 +20,7 @@
 	================================================== -->
 	<link rel="shortcut icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCte0PobrQU-R06-LtXtQB-wBIPH7ntD6Svg&usqp=CAU" >
 
-</head>
+
 
 <body>
 
