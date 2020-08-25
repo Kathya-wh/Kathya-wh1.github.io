@@ -84,7 +84,7 @@
 
                   <h2>Contact Details</h2>
                   <p class="address">
-						   <span>Kathya White</span><br>
+						   <span>Kathya White 256-227-3272</span><br>
 						   <span><br>
 						
                      </span>
@@ -272,15 +272,7 @@
    <footer>
 
     
-               <li>&copy; Copyright 2020 Kathya White</li>  
-          
-
-        
-
-         <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
-
-      </div>
-
+           
    </footer> <!-- Footer End-->
 
    <!-- Java Script
